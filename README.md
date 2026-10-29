@@ -1,5 +1,6 @@
 <div align="center">
-  <h2>Hi, I'm Sakith 👋</h2>
+  <h1>Hey 👋 What's Up?</h1>
+  <h2>I'm Sakith</h2>
   <p><strong>BSc (Hons) in Information Technology</strong> · University of Moratuwa, Sri Lanka</p>
   <p>Curious about technology, motivated by ideas, and learning through building.</p>
 
@@ -8,6 +9,32 @@
     &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://github.com/sakithw"><strong>GitHub profile</strong></a>
   </p>
+</div>
+
+---
+
+### ✦ Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo">
+  <span aria-hidden="true">&nbsp;</span>
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="Amazon Web Services logo">
 </div>
 
 ---
@@ -59,7 +86,15 @@ You can explore my public contributions and recent work on my **[GitHub overview
 
 ### ✦ Let's connect
 
-<p>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord">
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch">
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to">
+</div>
+
+<p align="center">
   <a href="https://github.com/sakithw">GitHub</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/sakithw?tab=repositories">Repositories</a>
