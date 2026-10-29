@@ -43,7 +43,19 @@ A selection of things I've built and explored. You can find my current work on m
 
 You can explore my public contributions and recent work on my **[GitHub overview](https://github.com/sakithw)**.
 
-<!-- Intentionally no generated statistics: no fake metrics or fragile third-party widgets. -->
+### ✦ GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sakithw&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sakith's GitHub statistics" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=sakithw&theme=dark&hide_border=false" alt="Sakith's GitHub contribution streak" />
+  <br>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakithw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sakith's most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakithw&icon=0&color=0" alt="Profile views" />
+</div>
 
 ### ✦ Let's connect
 
