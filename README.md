@@ -1,108 +1,55 @@
 <div align="center">
-  <h1>Hey 👋 What's Up?</h1>
-  <h2>I'm Sakith</h2>
-  <p><strong>BSc (Hons) in Information Technology</strong> · University of Moratuwa, Sri Lanka</p>
-  <p>Curious about technology, motivated by ideas, and learning through building.</p>
+  <h1>Hi 👋, I'm Sakith Wijesinghe</h1>
+  <p><strong>Information Technology undergraduate · University of Moratuwa, Sri Lanka</strong></p>
+  <p>Learning through building, exploring ideas, and creating useful things with technology.</p>
 
   <p>
-    <a href="https://github.com/sakithw?tab=repositories"><strong>Explore my repositories</strong></a>
-    &nbsp;&nbsp;·&nbsp;&nbsp;
-    <a href="https://github.com/sakithw"><strong>GitHub profile</strong></a>
+    <a href="https://github.com/sakithw?tab=repositories">Explore my repositories</a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/sakithw">View my GitHub profile</a>
   </p>
 </div>
 
 ---
 
-### ✦ Technologies
+<table align="center">
+  <tr>
+    <td>
+      <h2>🧠 About me</h2>
+      <ul>
+        <li>🎓 Pursuing a <strong>BSc (Hons) in Information Technology</strong></li>
+        <li>📍 Studying at the <strong>University of Moratuwa, Sri Lanka</strong></li>
+        <li>🛠️ Turning concepts into practical projects</li>
+        <li>🌱 Continuously learning and improving through hands-on experience</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="TypeScript logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="Storybook logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="GraphQL logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="Go logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="Rust logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python logo">
-  <span aria-hidden="true">&nbsp;</span>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="Amazon Web Services logo">
-</div>
-
----
-
-### ✦ A little about me
-
-I'm an Information Technology undergraduate at the **University of Moratuwa** in Sri Lanka, pursuing a **BSc (Hons) in Information Technology**. I enjoy turning concepts into working projects, exploring new ideas, and improving through hands-on experience.
-
-> **My approach:** Learn something new. Build something useful. Keep improving.
-
-### ✦ Featured projects
-
-<!--
-COPILOT: Replace this introduction with 2–3 REAL public projects from @sakithw.
-For each project, verify the repository link and description before publishing.
-Suggested format:
-
-| Project | Overview |
-| :--- | :--- |
-| **[Project name](https://github.com/sakithw/REPO)** | Concise verified description. |
-| **[Project name](https://github.com/sakithw/REPO)** | Concise verified description. |
--->
-
-A selection of things I've built and explored. You can find my current work on my **[public repositories page](https://github.com/sakithw?tab=repositories)**.
-
-### ✦ What I'm focused on
-
-- Strengthening my programming and problem-solving skills
-- Applying what I learn to real projects
-- Exploring practical software and technology ideas
-
-### ✦ GitHub activity
-
-You can explore my public contributions and recent work on my **[GitHub overview](https://github.com/sakithw)**.
-
-### ✦ GitHub stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sakithw&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Sakith's GitHub statistics" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=sakithw&theme=dark&hide_border=false" alt="Sakith's GitHub contribution streak" />
-  <br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sakithw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Sakith's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakithw&icon=0&color=0" alt="Profile views" />
-</div>
-
-### ✦ Let's connect
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitch">
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dev.to">
-</div>
+### 🛠️ Technologies I'm exploring
 
 <p align="center">
-  <a href="https://github.com/sakithw">GitHub</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/sakithw?tab=repositories">Repositories</a>
-  <!-- Add a real LinkedIn or portfolio URL here if you would like them public. -->
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,java,nodejs,mysql,git,github" alt="Technology icons">
 </p>
 
----
+### 📌 Featured projects
 
-<div align="center">
-  <sub>Thanks for stopping by · Made with curiosity and a little code</sub>
-</div>
+My public projects will be featured here as they become available. In the meantime, you can browse my **[public repositories](https://github.com/sakithw?tab=repositories)**.
+
+### 📈 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sakithw&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="Sakith's GitHub statistics">
+</p>
+
+### 🤝 Connect with me
+
+<p align="center">
+  <a href="https://github.com/sakithw">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by · Always learning, always building</sub>
+</p>
