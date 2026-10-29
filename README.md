@@ -1,52 +1,61 @@
 <div align="center">
-  <h1>Hi, I'm Sakith Wijesinghe</h1>
+  <h2>Hi, I'm Sakith 👋</h2>
+  <p><strong>BSc (Hons) in Information Technology</strong> · University of Moratuwa, Sri Lanka</p>
+  <p>Curious about technology, motivated by ideas, and learning through building.</p>
+
   <p>
-    <strong>IT Undergraduate building thoughtful, practical digital experiences</strong>
-  </p>
-  <p>
-    <a href="https://github.com/sakithw">
-      <img src="https://img.shields.io/badge/GitHub-sakithw-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub profile">
-    </a>
-    <a href="https://uom.lk/">
-      <img src="https://img.shields.io/badge/University_of_Moratuwa-Sri_Lanka-0B6E99?style=flat-square" alt="University of Moratuwa">
-    </a>
+    <a href="https://github.com/sakithw?tab=repositories"><strong>Explore my repositories</strong></a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://github.com/sakithw"><strong>GitHub profile</strong></a>
   </p>
 </div>
 
-## About me
+---
 
-I’m an undergraduate at the **University of Moratuwa, Sri Lanka**, pursuing a **BSc (Hons) in Information Technology**. I enjoy learning how technology can turn ideas into useful, well-crafted solutions, and I’m steadily growing through coursework, experimentation, and hands-on projects.
+### ✦ A little about me
 
-I use this space to document what I’m building, what I’m learning, and the ideas I want to explore next.
+I'm an Information Technology undergraduate at the **University of Moratuwa** in Sri Lanka, pursuing a **BSc (Hons) in Information Technology**. I enjoy turning concepts into working projects, exploring new ideas, and improving through hands-on experience.
 
-## Featured projects
+> **My approach:** Learn something new. Build something useful. Keep improving.
 
-This profile is just getting started. Verified project repositories will be added here as they become available.
+### ✦ Featured projects
 
-| Project | Description |
-| --- | --- |
-| **[Project name](YOUR_PROJECT_REPOSITORY_URL)** | *Replace this placeholder with a real repository link and a one-line description.* |
-| **[Project name](YOUR_PROJECT_REPOSITORY_URL)** | *Replace this placeholder with a real repository link and a one-line description.* |
-| **[Project name](YOUR_PROJECT_REPOSITORY_URL)** | *Replace this placeholder with a real repository link and a one-line description.* |
+<!--
+COPILOT: Replace this introduction with 2–3 REAL public projects from @sakithw.
+For each project, verify the repository link and description before publishing.
+Suggested format:
 
-<details>
-  <summary><strong>Currently learning</strong></summary>
-  <br>
-  Topics and technologies will be added here as my learning journey develops.
-</details>
+| Project | Overview |
+| :--- | :--- |
+| **[Project name](https://github.com/sakithw/REPO)** | Concise verified description. |
+| **[Project name](https://github.com/sakithw/REPO)** | Concise verified description. |
+-->
 
-## Connect with me
+A selection of things I've built and explored. You can find my current work on my **[public repositories page](https://github.com/sakithw?tab=repositories)**.
 
-I’m always open to connecting with fellow learners, developers, and people interested in building useful things with technology.
+### ✦ What I'm focused on
+
+- Strengthening my programming and problem-solving skills
+- Applying what I learn to real projects
+- Exploring practical software and technology ideas
+
+### ✦ GitHub activity
+
+You can explore my public contributions and recent work on my **[GitHub overview](https://github.com/sakithw)**.
+
+<!-- Intentionally no generated statistics: no fake metrics or fragile third-party widgets. -->
+
+### ✦ Let's connect
 
 <p>
   <a href="https://github.com/sakithw">GitHub</a>
-  &nbsp;&middot;&nbsp;
-  <a href="YOUR_LINKEDIN_PROFILE_URL">LinkedIn</a>
-  &nbsp;&middot;&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/sakithw?tab=repositories">Repositories</a>
+  <!-- Add a real LinkedIn or portfolio URL here if you would like them public. -->
 </p>
 
-<p align="center">
-  <sub>Thanks for stopping by.</sub>
-</p>
+---
+
+<div align="center">
+  <sub>Thanks for stopping by · Made with curiosity and a little code</sub>
+</div>
